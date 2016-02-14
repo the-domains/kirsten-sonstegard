@@ -1,0 +1,28 @@
+name: Kirsten Sonstegard
+favicon: null
+layout_spectrum: 0.0897836263757199
+typography_spectrum: 0.7256614824291319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7721605987753719
+  lightness: 0.8045617530588061
+  saturation: 0.7605658173561096
+  rhythmicContrast: 0.9204372533131391
+purpose: []
