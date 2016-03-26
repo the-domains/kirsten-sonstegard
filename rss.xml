@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Kirsten Sonstegard]]></title>
-        <description><![CDATA[Kirsten Sonstegard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Action Associates]]></title>
+        <description><![CDATA[Action Associates]]></description>
+        <link>https://thegrid.ai/kirsten-sonstegard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 20:06:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 22:25:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kirsten-sonstegard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Kirsten Sonstegard, LCSW</p>]]></description>
-            <link>undefinedbfa55171-8c45-4eb3-bdcd-4e2514f2f564/index.html</link>
+            <title><![CDATA[Kirsten Sonstegard, LCSW offers psychotherapy for individuals, couples, parenting and families, as well as action therapy. Also an Adlerian therapist, Kirsten is certified by the American Society of Group Psychotherapy and is licensed in Virginia. She re]]></title>
+            <description><![CDATA[<article><h1>Kirsten Sonstegard, LCSW offers psychotherapy for individuals, couples, parenting and families, as well as action therapy. Also an Adlerian therapist, Kirsten is certified by the American Society of Group Psychotherapy and is licensed in Virginia. She re</h1><p>Kirsten Sonstegard, LCSW offers psychotherapy for individuals, couples, parenting and families, as well as action therapy. Also an Adlerian therapist, Kirsten is certified by the American Society of Group Psychotherapy and is licensed in Virginia. She received an MSW from Catholic University and an MFA in acting from Temple University.  Kirsten lives in Winchester with her husband of over 35 years has two dogs and is a fan of Duke Basketball.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16f822eb1f0b242f3c97d0633eb62086222b3540.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kirsten-sonstegard/bfa55171-8c45-4eb3-bdcd-4e2514f2f564/index.html</link>
             <guid isPermaLink="false">bfa55171-8c45-4eb3-bdcd-4e2514f2f564</guid>
-            <pubDate>Sun, 14 Feb 2016 20:05:46 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 22:25:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
